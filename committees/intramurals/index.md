@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Intramurals
+permalink: committees/intramurals/
 ---
 A well-rounded individual is important to the SSE and as such we participate in
 many intramural sports. For example some quarters the SSE participates in

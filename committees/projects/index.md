@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+permalink: committees/projects/
 ---
 The essence of Projects Committee is simple: some people want to work on things,
 and others want to do things, we make it happen.

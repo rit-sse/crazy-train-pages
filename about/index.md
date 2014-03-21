@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About The SSE
+permalink: about/
 ---
 ### What we're all about
 

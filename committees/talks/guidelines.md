@@ -5,15 +5,16 @@ sidebars:
   - _secondary_nav.html
 nav_links:
   - name: Talk Guidelines
-    path: guidelines.html
+    path: guidelines/
   - name: Recorded Tech Talks
-    path: tech.html
+    path: tech/
   - name: Recorded Micro Talks
-    path: micro.html
+    path: micro/
   - name: Recorded Rand Talks
-    path: rand.html
+    path: rand/
   - name: Recorded Alum Talks
-    path: alum.html
+    path: alum/
+permalink: committees/talks/guidelines/
 ---
 
 These guidelines are meant to ensure the talk runs smoothly for everyone involved.
