@@ -5,15 +5,15 @@ sidebars:
   - _secondary_nav.html
 nav_links:
   - name: Talk Guidelines
-    path: guidelines/
+    path: /committees/talks/guidelines/
   - name: Recorded Tech Talks
-    path: tech/
+    path: /committees/talks/tech/
   - name: Recorded Micro Talks
-    path: micro/
+    path: /committees/talks/micro/
   - name: Recorded Rand Talks
-    path: rand/
+    path: /committees/talks/rand/
   - name: Recorded Alum Talks
-    path: alum/
+    path: /committees/talks/alum/
 permalink: committees/talks/
 ---
 
