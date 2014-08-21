@@ -12,7 +12,7 @@ Sciences. The lab's official hours are 10 AM to 6 PM, during which there is
 always one or more mentors on duty to help students of any major with any
 topic that relates to software engineering.
 
-The mentoring schedule for the week is available at: <a href="https://www.google.com/calendar/embed?title=Mentoring%20Schedule&mode=WEEK&height=768&wkst=1&bgcolor=%23FFFFFF&src=ict76b9u2j4ogt6r3spab08vog%40group.calendar.google.com&color=%232F6213&ctz=America%2FNew_York" target="_blank">SSE Mentoring Schedule</a>
+The mentoring schedule for the week is available at: [SSE Mentoring Schedule][0]
 
 The mentoring lab is a great place for all students to relax, socialize,
 work, and get help throughout the day.
@@ -27,7 +27,7 @@ where they're available to answer questions and assist students who need help
 with coursework, projects, or software engineering in general.
 
 All mentors have, at a minimum, completed the introductory CS sequence and
-4010-361 Software Engineering.  Many are upperclassmen who have completed
+Software Engineering (SWEN-261 / 4010-361).  Many are upperclassmen who have completed
 multiple co-op blocks, and have great advice for students looking to choose
 courses or find companies for the rest of their academic careers.
 
@@ -53,6 +53,7 @@ learn a new technology or technique and we have people who can teach them. Crash
 courses are usually scheduled by request, although we do work with the
 [Projects Committee][3] to prepare for Rapid Development Weekend.
 
+[0]: https://sse.se.rit.edu/go/mentoringschedule
 [1]: /committees/talks
 [2]: crash-courses
 [3]: /committees/projects
