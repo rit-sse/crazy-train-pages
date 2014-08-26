@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Intramurals
 permalink: committees/intramurals/
 ---

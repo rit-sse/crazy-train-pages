@@ -1,10 +1,9 @@
 ---
-layout: page
 title: Officers
 permalink: about/officers/
 ---
 Minutes from weekly Officers meetings are
-[available here](/about/officers/minutes).
+[available here](/about/minutes).
 
 ### Principal Officers
 

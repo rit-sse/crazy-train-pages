@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Public Relations
 permalink: committees/pr/
 ---

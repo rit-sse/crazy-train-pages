@@ -1,19 +1,5 @@
 ---
-layout: page
 title: Recorded Micro Talks
-sidebars:
-  - _secondary_nav.html
-nav_links:
-  - name: Talk Guidelines
-    path: /committees/talks/guidelines/
-  - name: Recorded Tech Talks
-    path: /committees/talks/tech/
-  - name: Recorded Micro Talks
-    path: /committees/talks/micro/
-  - name: Recorded Rand Talks
-    path: /committees/talks/rand/
-  - name: Recorded Alum Talks
-    path: /committees/talks/alum/
 permalink: committees/talks/micro/
 ---
 

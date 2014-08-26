@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Mentoring
 permalink: committees/mentoring/
 ---

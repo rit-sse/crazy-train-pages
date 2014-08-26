@@ -1,5 +1,4 @@
 ---
-layout: page
 title: About The SSE
 permalink: about/
 ---

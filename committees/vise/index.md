@@ -1,5 +1,4 @@
 ---
-layout: page
 title: ViSE
 permalink: committees/vise/
 ---

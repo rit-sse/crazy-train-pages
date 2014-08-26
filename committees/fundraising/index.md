@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Fundraising
 permalink: committees/fundraising/
 ---
