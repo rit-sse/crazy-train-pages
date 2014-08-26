@@ -1,5 +1,5 @@
 ---
-title: About The SSE
+title: Meeting Minutes
 permalink: about/minutes/
 ---
 
