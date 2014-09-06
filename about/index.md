@@ -49,7 +49,7 @@ meeting new people. So by all means please stop by the lab sometime!
 We’d love to get to know you!
 
 If you are interested in learning more about the Society or have any
-questions, feel free to [contact one of our officers][5]!
+questions, feel free to [contact one of our officers][5] or [find us on the internet][7]!
 
 [1]: /committees/mentoring
 [2]: /committees/projects
@@ -57,3 +57,4 @@ questions, feel free to [contact one of our officers][5]!
 [4]: /committees/vise
 [5]: /about/officers
 [6]: http://maps.rit.edu/?zoom=17&lat=43.
+[7]: /social
