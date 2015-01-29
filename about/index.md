@@ -48,6 +48,13 @@ Although we may be biased, the members of the SSE are friendly and enjoy
 meeting new people. So by all means please stop by the lab sometime!
 We’d love to get to know you!
 
+Some of the most common ways of getting involved include doing some of the following:
+
+* Joining a committee
+* Going on Fundraising runs
+* Attending the General Meetings
+* Participating in Lab Cleanup Sessions
+
 If you are interested in learning more about the Society or have any
 questions, feel free to [contact one of our officers][5] or [find us on the internet][7]!
 
