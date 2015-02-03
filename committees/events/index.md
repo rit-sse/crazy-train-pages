@@ -10,6 +10,7 @@ Check back here often to see what events the SSE is up to!
 
 
 ## Week 4
+
 What | When | Where | Notes
 ---- | ---- | ----- | -----
 **SSE Goes Garbage Tramplining** Heard of Sky Zone? Its a place with huge trampolines, where we will go jump and then eat garbage plates right after! | Saturday 9/20 | Carpool from SSE Lab | Subsidized admission pricing!
