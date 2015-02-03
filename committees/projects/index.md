@@ -36,4 +36,4 @@ TigerLaundry is a way to make doing laundry less of a lottery. Using cloud sourc
 
 ##### Projects are a great way to earn SSE membership!
 
-[1]: "https://sse.se.rit.edu/go/project_ideas"
+[1]: https://sse.se.rit.edu/go/project_ideas
