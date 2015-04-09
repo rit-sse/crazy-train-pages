@@ -4,7 +4,7 @@ permalink: elections/
 ---
 
 Here are the accepted nominations for primary officers for the 2015-2016 academic year.
-Nominations close Wednesday April 12, 2015.
+Nominations close Saturday April 11, 2015 at 11:59 PM.
 
 ### President
 
