@@ -12,7 +12,13 @@ Nominations close Saturday April 11, 2015 at 11:59 PM.
 
 ### Vice President
 
+* Brian Besmanoff
+* Wesley Wigham
+
 ### Treasurer
+
+* Ben Kantor
+* Kocsen Chung
 
 ### Secretary
 
