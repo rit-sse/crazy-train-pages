@@ -26,7 +26,7 @@ students - it's a smash hit! We also go out camping and barbecuing, we watch mov
 together, we go on trips around Rochester, and many other exciting activities.
 In addition, the SSE has many intramural sports teams that play throughout the academic year.
 
-We also hosts the very popular [Voices in Software Engineering (ViSE)][4]
+We also host the very popular [Voices in Software Engineering (ViSE)][4]
 speaker series. We've previously brought in speakers like Bjarne Stoustrup (the
 original author of the C++ programming language) and Alan Atlas (a certified
 Scrum trainer).
