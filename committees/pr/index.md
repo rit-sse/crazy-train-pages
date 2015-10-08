@@ -16,9 +16,9 @@ Engineers at RIT. The committee is responsible for:
 #### Students
 If you are interested in helping with Public Relations for the SSE, contact the
 public relations head at pr@sse.se.rit.edu, or see any SSE PR Agent in the SSE
-lab or during a meeting.
+lab.
 
 #### Companies
-If you are interested in giving a presentation about your company to the SSE
-student body, giving a donation, or partnering with us in any other capacity,
-please email <pr@sse.se.rit.edu>.
+If you are interested in giving a presentation about your company, a
+tech talk to the SSE student body or partnering with us in any other
+capacity, please email <pr@sse.se.rit.edu>.
