@@ -11,8 +11,6 @@ Sciences. The lab's official hours are 10 AM to 6 PM, during which there is
 always one or more mentors on duty to help students of any major with any
 topic that relates to software engineering.
 
-The mentoring schedule for the week is available at: [SSE Mentoring Schedule][0]
-
 The mentoring lab is a great place for all students to relax, socialize,
 work, and get help throughout the day.
 
@@ -42,17 +40,3 @@ providing hints on what to expect on the test.
 
 Review sessions are one of the most successful parts of the SSE's mentoring
 efforts, with over 100 students at some reviews.
-
-Crash Courses
--------------
-
-While [Tech Talks][1] are designed to give students who have learned
-something a chance to share it, [Crash Courses][2] are given when a member wants to
-learn a new technology or technique and we have people who can teach them. Crash
-courses are usually scheduled by request, although we do work with the
-[Projects Committee][3] to prepare for Rapid Development Weekend.
-
-[0]: https://sse.se.rit.edu/go/mentoringschedule
-[1]: /committees/talks
-[2]: crash-courses
-[3]: /committees/projects
