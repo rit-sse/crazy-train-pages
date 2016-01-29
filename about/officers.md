@@ -3,7 +3,7 @@ title: Officers
 permalink: about/officers/
 ---
 Minutes from weekly Officers meetings are
-[available here](/about/minutes).
+[available here](https://drive.google.com/a/g.rit.edu/folderview?id=0ByJTmmqthU2scDZjRFRLakVzaTA&usp=sharing). (requires RIT login)
 
 ### Principal Officers
 
