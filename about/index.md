@@ -63,5 +63,5 @@ questions, feel free to [contact one of our officers][5] or [find us on the inte
 [3]: /events
 [4]: /committees/vise
 [5]: /about/officers
-[6]: http://maps.rit.edu/?zoom=17&lat=43.
+[6]: https://maps.rit.edu/?zoom=20&lat=43.08384053670899&lng=-77.67983857233527
 [7]: /social
