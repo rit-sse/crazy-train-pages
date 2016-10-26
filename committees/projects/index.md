@@ -3,9 +3,6 @@ title: Projects
 permalink: committees/projects/
 ---
 
-Projects
-========
-
 The mission of Projects Committee is simple: some people want to work on things,
 and others want to do things, we make it happen.
 
@@ -51,3 +48,22 @@ looking for both hardware and software help.
 Slack: `#proj-led-marquee`
 
 Ask on Slack for interest!
+
+Past Projects
+-------------
+
+For past projects, see our Github at https://github.com/rit-sse. The following is
+a selection of our most recent projects.
+
+
+### [Voxel Display](https://github.com/rit-sse/Voxel-Display)
+
+Three dimensional display using voxels made of selectively frosted glass.
+
+### [Asteroid Drive](https://github.com/rit-sse/shoot-it)
+
+Multiplayer Starfox-style asteroid dodger.
+
+### [Oculus Paint](https://github.com/rit-sse/OculusPaint)
+
+Virtual Reality three dimensional image painting program.
