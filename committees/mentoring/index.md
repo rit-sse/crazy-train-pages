@@ -30,9 +30,16 @@ courses or find companies for the rest of their academic careers.
 
 Review Sessions
 ---------------
+The SSE currently offers review sessions for:
 
-The SSE holds roughly a dozen review sessions for multiple courses in the CS
-and SE departments every quarter. Before each review, a team of mentors that
+- CSCI-141
+- CSCI-142
+- SWEN-250
+- SWEN-261
+- SWEN-262
+
+The SSE holds dozens of review sessions for multiple courses in the CS
+and SE departments every semester. Before each review, a team of mentors that
 have already taken the class builds a practice test for students to work
 through. After working on the test on their own and with other students, the
 mentors go over each question on the practice exam, discussing answers and
