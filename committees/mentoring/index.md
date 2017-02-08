@@ -47,3 +47,11 @@ providing hints on what to expect on the test.
 
 Review sessions are one of the most successful parts of the SSE's mentoring
 efforts, with over 100 students at some reviews.
+
+Physics Mentoring
+-----------------
+The SSE also has a tutor for physics. His hours are:
+- Mon. 10:30 - 11:30pm && 6 - 7pm
+- Tues. 2:30 - 3:30 pm
+- Wed. 10:30 - 11:30 am
+- Thurs. 12:30 - 1.20 pm
