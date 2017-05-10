@@ -10,7 +10,7 @@ Minutes from weekly Officers meetings are
 {% for officer in site.data.primary_officers %}
   {{officer.name}}, {{officer.position}}
   <br>
-  <{{officer.email}}@sse.se.rit.edu>
+  <{{officer.email}}@sse.rit.edu>
 {% endfor %}
 
 ### Committee Heads
@@ -18,5 +18,5 @@ Minutes from weekly Officers meetings are
 {% for officer in site.data.committee_heads %}
   {{officer.name}}, {{officer.position}}
   <br>
-  <{{officer.email}}@sse.se.rit.edu>
+  <{{officer.email}}@sse.rit.edu>
 {% endfor %}
